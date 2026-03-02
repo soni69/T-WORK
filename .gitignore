@@ -1,0 +1,15 @@
+# Секреты и окружение
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.db
+
+# Логи и временные файлы
+*.log
+.DS_Store
